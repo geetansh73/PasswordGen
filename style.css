@@ -1,0 +1,34 @@
+#content
+{
+    margin: auto;
+  width: 90%;
+background-color: skyblue;
+padding: 20px;
+width: 50%;
+text-align:center;
+border: 2px solid black;
+margin-top: 5%;
+
+}
+.generated
+{
+    margin: auto;
+width: 90%;
+}
+#lastNums
+{
+margin:auto;
+text-align:center;
+}
+#content1
+{
+color: red;
+}
+#content2
+{
+color: red;
+}
+#content0
+{
+color: teal;
+}
