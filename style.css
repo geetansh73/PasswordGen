@@ -1,12 +1,13 @@
 #content
 {
     margin: auto;
-  width: 90%;
 background-color: skyblue;
 padding: 20px;
 width: 50%;
+height: 550px;
 text-align:center;
 border: 2px solid black;
+border-radius: 10px;
 margin-top: 5%;
 
 }
